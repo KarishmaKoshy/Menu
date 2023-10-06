@@ -1,0 +1,19 @@
+.a{
+    color: white;
+}
+
+.btn{
+    background-color: #450305;
+
+}
+.btn:hover{
+    background: gray;
+}
+
+.navbar-toggler:hover {
+    background-color: white;
+
+}
+
+
+
